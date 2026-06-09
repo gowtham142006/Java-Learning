@@ -9,9 +9,8 @@ public class ArmstrongNumber {
         int temp = num;
         int count = 0;
         while (temp > 0) {
-            int last = temp % 10;
-            count++;
             temp /= 10;
+            count++;
         }
         int sum = 0;
         int temp1 = num;
