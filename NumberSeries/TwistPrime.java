@@ -1,4 +1,4 @@
-package Day1;
+package NumberSeries;
 import java.util.Scanner;
 
 public class TwistPrime {
