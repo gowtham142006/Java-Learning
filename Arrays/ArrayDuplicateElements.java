@@ -13,7 +13,6 @@ public class ArrayDuplicateElements {
             arr[i]=sc.nextInt();
         }
         for(int i=0;i<size;i++){
-            int count=1;
             int flag=0;
 
             for(int j=0;j<i;j++){
@@ -25,12 +24,13 @@ public class ArrayDuplicateElements {
             if(flag==0){
                 for(int k=i+1;k<size;k++){
                     if(arr[k]==arr[i]){
-                        count++;
+                       // count++;
+                       System.out.println("Duplicate elements are: "+arr[i]);
+                       break;
                     }
                 }
-                if(count>1){
-                System.out.println("Duplicate elements are: "+arr[i]);
-            }
+                
+            
         }
     }
     sc.close();
