@@ -19,6 +19,17 @@ public class EmptyInLast {
                 index++;
             }
         }
+        /*int index=0;
+        for(int i=0;i<size;i++){       //Another method without creating new array
+             if(arr[i]!=0){
+                arr[index]=arr[i];
+                index++;
+              }
+            } 
+        while(index<size){
+            arr[index]=0;
+            index++;
+            }*/
         System.out.println("After removing empty element");
         for(int i=0;i<size;i++){
             System.out.print(r[i]+" ");
