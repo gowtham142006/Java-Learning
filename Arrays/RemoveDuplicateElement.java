@@ -21,14 +21,16 @@ public class RemoveDuplicateElement {
                 }
             }
             if(flag==0){
-            for(int k=i+1;k<size;k++){
+            for(int k=i;k<size;k++){
                 if(arr[i]==arr[k]){
                     count++;
                 }
             }
-            if(count==0){
-                System.out.println("After removing repeted elements :"+arr[i]);
+            if(count==1){
+            System.out.println("After removing repeted elements :"+arr[i]);
+            
         }
+
             }
         }
         sc.close();

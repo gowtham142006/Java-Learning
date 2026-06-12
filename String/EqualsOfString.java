@@ -9,7 +9,9 @@ public class EqualsOfString {
         String str1 = sc.nextLine();
         System.out.println("Enter string2 :");
         String str2 = sc.nextLine();
-        if(str1.equals(str2)){
+        //String str3 ="abc";
+        //String str4 ="abc";
+        if(str2.equals(str1)){
             System.out.println("String is equal");
         }
         else{
