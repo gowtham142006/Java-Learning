@@ -1,0 +1,44 @@
+package String;
+
+import java.util.Scanner;
+
+public class EqualOrNotIgnoreCase {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter string1 :");
+        String str1 = sc.nextLine();
+        System.out.println("Enter string2 :");
+        String str2 = sc.nextLine();
+        int flag=0;
+        
+        if(str1.length()!=str2.length()){
+            flag=1;
+        }
+        else{
+         for(int i=0;i<str1.length();i++){
+            char ch1 =str1 .charAt(i);
+            char ch2 =str2 .charAt(i);
+            if(ch1>='A'&&ch1<='Z'){
+               ch1=((char)(ch1+32));
+                
+            }
+            if(ch2>='A'&&ch2<='Z'){
+               ch2=((char)(ch2+32));
+                
+            }
+            if(ch1!=ch2){
+                flag=1;
+                break;
+            }
+        }
+    }
+        if(flag==0){
+            System.out.println("equal");
+        }
+        else
+            {
+        System.out.println("not equal");
+        }
+        sc.close();
+    }
+}
