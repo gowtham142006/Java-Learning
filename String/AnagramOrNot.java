@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class AnagramOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a string 1 :");
         String str1 = sc.nextLine();
+        System.out.println("Enter a string 2 :");
         String str2 = sc.nextLine();
         int arr[] = new int[254];
 

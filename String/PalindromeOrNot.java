@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class PalindromeOrNot {
      public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
+        System.out.println("Enter a string :");
         String str = sc.nextLine();
         int start=0;
         int end=str.length()-1;
@@ -17,10 +18,10 @@ public class PalindromeOrNot {
             end--;
         }
         if(flag==0){
-            System.out.println("palindrome");
+            System.out.println("Palindrome");
         }
         else{
-            System.out.println("not palindrome");
+            System.out.println("Not Palindrome");
         }
         sc.close();
 }
