@@ -1,6 +1,5 @@
 package DSA.LinkedList;
-
- class Node {
+class Node {
     int data;
     Node next;
 
