@@ -1,5 +1,3 @@
-package String;
-
 import java.util.Scanner;
 public class GoatLatin{
     public static void main(String a[]){

@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 public class RightShiftOfArray {
     public static void main(String[] args) {

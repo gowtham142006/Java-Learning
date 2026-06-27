@@ -1,5 +1,3 @@
-package NumberSeries;
-
 import java.util.Scanner;
 
 public class DecimalToOctal {

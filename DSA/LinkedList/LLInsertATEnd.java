@@ -1,4 +1,3 @@
-package DSA.LinkedList;
  class Node {
     int data;
     Node next;

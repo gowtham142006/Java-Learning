@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 public class FrequencyNumberCount {
     public static void main(String[] args) {

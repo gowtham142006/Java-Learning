@@ -1,4 +1,3 @@
-package NumberSeries;
 import java.util.Scanner;
 public class StrongNumber {
     public static void main(String[] args) {

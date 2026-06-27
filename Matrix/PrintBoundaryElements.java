@@ -1,4 +1,3 @@
-package Matrix;
 import java.util.Scanner;
 public class PrintBoundaryElements {
     public static void main(String args[]) {

@@ -1,5 +1,3 @@
-package DSA.DoubleLinkedList;
-
 class Node {
     int data;
     Node next;

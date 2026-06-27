@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 public class LeftShiftOfArray {
     public static void main(String[] args) {

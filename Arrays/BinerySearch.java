@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.Scanner;
 public class BinerySearch {
     public static void main(String[] args){
