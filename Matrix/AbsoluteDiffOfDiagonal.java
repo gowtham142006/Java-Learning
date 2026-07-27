@@ -26,6 +26,6 @@ public class AbsoluteDiffOfDiagonal {
         else{
             System.out.println("Absolutediff is"+(s-p));
         }
-        sc.close();
+        
     }
 }

@@ -11,6 +11,6 @@ public class DecimalToOctal {
             num/=8;
         }
         System.out.println(octal);
-        sc.close();
+        
     }
 }

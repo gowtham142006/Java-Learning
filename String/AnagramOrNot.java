@@ -28,6 +28,6 @@ public class AnagramOrNot {
         else{
             System.out.println("Not Anagram");
         }
-sc.close();
+
     }
 }

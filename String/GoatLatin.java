@@ -34,6 +34,6 @@ public class GoatLatin{
             }
             
         } 
-        sc.close();
+        
     }
 }

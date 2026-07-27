@@ -25,7 +25,7 @@ public class KthLargestValue {
         int k = sc.nextInt();
         System.out.println(arr[k-1]);
 
-        sc.close();
+        
     }
     
 }

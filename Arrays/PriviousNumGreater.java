@@ -18,6 +18,6 @@ public class PriviousNumGreater {
                 System.out.println(max);
             }
         }
-        sc.close();
+        
 }
 }

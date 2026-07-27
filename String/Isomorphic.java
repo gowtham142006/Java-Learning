@@ -24,7 +24,7 @@ public class Isomorphic {
                 System.out.println("Isomarphic");
             }
         }
-        sc.close();
+        
 
     }
 }

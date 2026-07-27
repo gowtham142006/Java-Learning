@@ -19,7 +19,7 @@ public class VowelsAndConsonentCount {
         }
         System.out.println(v);
         System.out.println(c);
-        sc.close();
+        
 
     }
 }

@@ -21,6 +21,6 @@ public class ReverseOfRowInMatrix {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

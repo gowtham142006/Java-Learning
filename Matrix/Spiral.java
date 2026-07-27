@@ -53,6 +53,5 @@ public class Spiral {
         for(int z=0;z<index;z++){
             System.out.print(a[z]+" ");
         }
-        sc.close();
     }
 }

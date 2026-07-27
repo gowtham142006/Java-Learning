@@ -15,6 +15,6 @@ public class ReverseBeforeAtIndex {
             char ch = str.charAt(i);
             System.out.print(ch);
         }
-        sc.close();
+        
     }
 }

@@ -14,6 +14,6 @@ public class TrimSpace {
                 System.out.print(ch);
             }
         }
-        sc.close();
+        
     }
 }

@@ -10,6 +10,6 @@ public class RightAnglePyramid {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

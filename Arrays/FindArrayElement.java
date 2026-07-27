@@ -18,7 +18,7 @@ public class FindArrayElement {
             }
         }
         System.out.println(index);
-        sc.close();
+        
 
     }
 }

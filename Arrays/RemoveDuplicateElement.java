@@ -31,6 +31,6 @@ public class RemoveDuplicateElement {
 
             }
         }
-        sc.close();
+        
 }
 }

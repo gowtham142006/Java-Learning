@@ -24,6 +24,6 @@ public class GreaterElementInRow {
             }
             System.out.print(max+" ");
         }
-        sc.close();
+        
     }
 }

@@ -18,7 +18,7 @@ public class PriviousNumLesser {
                 System.out.println(min);
             }
         }
-        sc.close();
+        
 }
 }
 

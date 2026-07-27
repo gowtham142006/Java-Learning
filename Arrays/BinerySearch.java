@@ -32,6 +32,6 @@ public class BinerySearch {
     else{
         System.out.println("not found");
     }
-    sc.close();
+    
     }
 }

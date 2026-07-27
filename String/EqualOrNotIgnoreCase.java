@@ -37,6 +37,6 @@ public class EqualOrNotIgnoreCase {
             {
         System.out.println("not equal");
         }
-        sc.close();
+        
     }
 }

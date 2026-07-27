@@ -37,6 +37,6 @@ public class CompareTwoMatrix {
         else{
             System.out.println("Flase");
         }
-        sc.close();
+        
     }
 }

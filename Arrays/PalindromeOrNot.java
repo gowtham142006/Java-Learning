@@ -26,7 +26,7 @@ public class PalindromeOrNot {
         else{
             System.out.println("not Palindrome");
         }
-        sc.close();
+        
     }
 
 }

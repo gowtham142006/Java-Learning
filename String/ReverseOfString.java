@@ -10,6 +10,6 @@ public class ReverseOfString {
         for(int i=A-1;i>=0;i--){
             System.out.print(str.charAt(i));
         }
-        sc.close();
+        
     }
 }

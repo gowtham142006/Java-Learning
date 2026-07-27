@@ -23,5 +23,5 @@ public class PanagramOrNot {
         System.out.println("Not Panagram");
 
     }
-    sc.close();
+    
 }}

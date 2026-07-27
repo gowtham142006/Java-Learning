@@ -26,7 +26,7 @@ public class SortedOrNot {
        else{
         System.out.println("Array is not sorted");
        }
-       sc.close();
+       
     }
     
 }

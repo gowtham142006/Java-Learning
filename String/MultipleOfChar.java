@@ -17,6 +17,6 @@ public class MultipleOfChar {
                 System.out.print(ch);
         }
         }
-        sc.close();
+        
     }
 }

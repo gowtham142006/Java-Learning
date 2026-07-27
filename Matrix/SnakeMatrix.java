@@ -22,7 +22,5 @@ public class SnakeMatrix {
             }
             System.out.println();
         }
-
-        sc.close();
     }
 }

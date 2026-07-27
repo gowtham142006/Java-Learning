@@ -24,6 +24,6 @@ public class SmallerElementInColumn {
             }
             System.out.print(min+" ");
         }
-        sc.close();
+        
     }
 }

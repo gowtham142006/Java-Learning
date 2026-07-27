@@ -38,6 +38,6 @@ public class PrintBoundaryElements {
                 System.out.print(a[i][0] + " ");
             }
         }
-        sc.close();
+        
     }
 }

@@ -24,6 +24,6 @@ public class GreaterElementInColumn {
             }
             System.out.print(max+" ");
         }
-        sc.close();
+        
     }
 }

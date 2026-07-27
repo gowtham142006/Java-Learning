@@ -24,7 +24,7 @@ public class MinAndMaxInArray {
             }
         }
         System.out.println("max of array is: "+max);
-        sc.close();
+        
 
     }
 }

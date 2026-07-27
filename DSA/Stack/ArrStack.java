@@ -70,7 +70,9 @@ public class ArrStack{
        obj.push(20);
        obj.push(30);
        obj.display();
+       obj.pop();
+       obj.display();
        obj.peek();
-       sc.close();
+       
     }
 }

@@ -20,6 +20,6 @@ public class PrintMatrixElements {
             System.out.println(" ");
 
         }
-        sc.close();
+        
     }
 }

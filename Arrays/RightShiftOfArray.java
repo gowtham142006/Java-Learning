@@ -20,6 +20,6 @@ public class RightShiftOfArray {
         for(int i=0;i<size;i++){
             System.out.println(r[i]+" ");
         }
-        sc.close();
+        
     }
 }

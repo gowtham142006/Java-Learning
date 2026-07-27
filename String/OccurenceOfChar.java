@@ -25,6 +25,6 @@ public class OccurenceOfChar {
             
         }
     }
-    sc.close();
+    
 }
 }

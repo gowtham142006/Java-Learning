@@ -12,7 +12,6 @@ public class Exponential {
             result *= base;
         }
         System.out.println(base + " raised to the power of " + power + " is: " + result);
-        sc.close();
     }
 }
 

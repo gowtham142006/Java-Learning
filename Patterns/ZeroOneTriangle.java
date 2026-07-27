@@ -23,6 +23,6 @@ public class ZeroOneTriangle {
             System.out.println();
         }
 
-        sc.close();
+        
     }
 }

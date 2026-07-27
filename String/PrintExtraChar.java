@@ -18,6 +18,6 @@ public class PrintExtraChar {
         }
          char ch= (char)(sum2-sum1);
         System.out.print(ch);
-        sc.close();
+        
     }
 }

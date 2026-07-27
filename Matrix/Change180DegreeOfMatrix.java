@@ -17,6 +17,6 @@ public class Change180DegreeOfMatrix {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

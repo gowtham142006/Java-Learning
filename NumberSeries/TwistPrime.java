@@ -36,7 +36,7 @@ public class TwistPrime {
                 System.out.println(num + " is not a twist prime number.");
             }
         }
-        sc.close();
+        
     }
     
 }

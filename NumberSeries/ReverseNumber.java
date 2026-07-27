@@ -12,6 +12,6 @@ public class ReverseNumber {
             num /= 10;
         }
         System.out.println("Reverse of the number is: " + rev);
-        sc.close();
+        
 }
 }

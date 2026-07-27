@@ -32,6 +32,6 @@ public class SumOfTwoMatrix {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

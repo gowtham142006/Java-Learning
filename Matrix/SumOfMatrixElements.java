@@ -20,7 +20,7 @@ public class SumOfMatrixElements {
         }
         System.out.println("Sum of matrix is ");
         System.out.println(sum);
-        sc.close();
+        
     }
 }
 

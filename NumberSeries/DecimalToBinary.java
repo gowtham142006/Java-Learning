@@ -11,6 +11,6 @@ public class DecimalToBinary {
             num/=2;
         }
         System.out.println(binary);
-        sc.close();
+        
     }
 }

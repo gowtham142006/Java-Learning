@@ -36,6 +36,6 @@ public class AbsoluteDiffOfOddEven {
         
     }
 
-    sc.close();
+    
     }
 }

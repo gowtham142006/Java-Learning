@@ -21,6 +21,6 @@ public class SumOfColumn {
             }
             System.out.println("sum of column "+(i+1)+" is "+sum);
         }
-sc.close();
+
     }
 }

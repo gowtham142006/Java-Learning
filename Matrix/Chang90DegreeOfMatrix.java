@@ -21,6 +21,6 @@ public class Chang90DegreeOfMatrix {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

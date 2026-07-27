@@ -16,6 +16,6 @@ public class p2 {
             }
             System.out.println();
         }
-        sc.close();
+        
     }
 }

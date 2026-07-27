@@ -19,6 +19,6 @@ public class InsertWord {
     if(index==str.length()+1){
         System.out.print(word);
     }
-    sc.close();
+    
     }
 }

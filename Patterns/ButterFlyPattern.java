@@ -29,6 +29,6 @@ public class ButterFlyPattern {
         System.out.println();
         
      }
-     sc.close();
+     
     }
 }

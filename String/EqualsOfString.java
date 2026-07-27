@@ -15,6 +15,6 @@ public class EqualsOfString {
         else{
             System.out.println("string is not equal");
         }
-        sc.close();
+        
     }
 }

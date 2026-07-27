@@ -27,6 +27,6 @@ public class FrequencyNumberCount {
                 System.out.println(arr[i] +"-"+ count);
             }
     }
-        sc.close();
+        
     }
 }
